@@ -111,7 +111,7 @@ const IndexPage = () => {
 
             <div className='insights-wrapper solution-block'>
               <p className="slide-L-target adjustable-f-size">Optimización, accesibilidad en multiples dipositivos y velocidad que verificamos con <a target="_blac" href='https://pagespeed.web.dev'>google page speed insights</a></p>
-              <StaticImage src="../images/google-pagespeed-insights-logo" className="insights-logo slide-R-target solution-img" alt="page speed insights example"></StaticImage>
+              <StaticImage src="../images/google-pagespeed-insights-logo.png" className="insights-logo slide-R-target solution-img" alt="page speed insights example"></StaticImage>
             </div>
           </div>
 
@@ -128,7 +128,7 @@ const IndexPage = () => {
           </div>
 
           <div className="solution_GMB solution-block">
-            <StaticImage src="../images/google-my-business-logo" className='gmb-img slide-L-target solution-img' ></StaticImage>
+            <StaticImage src="../images/google-my-business-logo.png" className='gmb-img slide-L-target solution-img' ></StaticImage>
             <p className="slide-R-target adjustable-f-size">Incrementamos busquedas locales con optimización de GMB (Google my business)</p>
           </div>
 
@@ -154,7 +154,7 @@ const IndexPage = () => {
               <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
             </Helmet>
             <div id="calendly-imbed">
-              <div class="calendly-inline-widget" data-url="https://calendly.com/holdtml-benjamin/reunion-inicial?primary_color=df7b1e" style={{ minWidth: '320px', height: '82dvh', width: '100%', margin: ' 0px 0px 120px 0px', padding: '0px' }}></div>
+              <div class="calendly-inline-widget" data-url="https://calendly.com/holdtml-benjamin/reunion-inicial?primary_color=df7b1e" style={{ minWidth: '320px', height: '92dvh', width: '100%', margin: ' 0px 0px 120px 0px', padding: '0px' }}></div>
             </div>
           </div>
         </section>
